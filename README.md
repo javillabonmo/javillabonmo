@@ -23,7 +23,7 @@ I am a full-stack software developer with emphasis on backend development.
 
 ## Tools
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=javillabonmo&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=javillabonmo&theme=transparent)](https://git.io/streak-stats)
 
 *Currently learning Redis, Auth-flows and arquitecture
 
