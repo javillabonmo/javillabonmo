@@ -6,9 +6,9 @@
 
 Hey there!!:D
 
-I am a full-stack software developer with emphasis on backend development.
+I am a software developer with emphasis on backend development (and devops).
 
- i build scalable and robust solutions, applying patterns, architectures, and design decisions to solve business problems, always focused in the experience and code quality of the things i buid <3 you are welcome to see my repos and my work;)
+i build scalable and robust solutions, applying patterns, architectures, and design decisions to solve business problems, always focused on problem solving and code quality of the things i build <3 you are welcome to see my repos and my work;)
 
 
 ## Connect With Me
