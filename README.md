@@ -11,7 +11,7 @@ I am a full-stack software developer with emphasis on backend development.
  i build scalable and robust solutions, applying patterns, architectures, and design decisions to solve business problems, always focused in the experience and code quality of the things i buid <3 you are welcome to see my repos and my work;)
 
 
-## Connect With Me  ♪(´▽｀)
+## Connect With Me
 
 <a href="https://linkedin.com/in/javillabonmo" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
